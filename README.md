@@ -4,6 +4,8 @@ A self-paced course for a physicist who knows mathematics and programming and is
 
 The central habit is **derive → simulate → build → measure → explain discrepancies**. Mathematical fluency lets you explore the models deeply. Practical competence comes from checking where those models stop describing your hardware.
 
+**Read online:** [Microelectronics course website](https://guimarais.github.io/microelectronics/), with chapter navigation, search, reading/video links and browser-saved progress. The reader automatically checks this repository's published Markdown for updates; its implementation lives in the [portfolio repository](https://github.com/guimarais/guimarais.github.io/tree/master/microelectronics).
+
 ## Course handbook
 
 | Document | Use it for |
